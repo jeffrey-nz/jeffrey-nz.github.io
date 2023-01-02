@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "sass": "^1.57.1"
+  },
+  "name": "jeffrey-nz.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jeffrey-nz/jeffrey-nz.github.io.git",
+  "author": "Jeffrey Dick <jeffrey@jeffreydick.com>",
+  "license": "MIT",
+  "scripts": {
+    "scss:build": "sass scss:public/styles",
+    "scss:watch": "sass --watch scss:public/styles"
+  }
+}
