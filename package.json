@@ -9,7 +9,7 @@
   "author": "Jeffrey Dick <jeffrey@jeffreydick.com>",
   "license": "MIT",
   "scripts": {
-    "build": "sass scss:public/styles",
-    "watch": "sass --watch scss:public/styles"
+    "build": "sass scss:styles",
+    "watch": "sass --watch scss:styles"
   }
 }
